@@ -1,0 +1,9 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+hcsr04.c:24:6:hcsr04_callback_redge	16	static
+hcsr04.c:33:6:hcsr04_callback_fedge	16	static
+hcsr04.c:39:13:hcsr04_delay_0	16	static
+hcsr04.c:45:13:hcsr04_delay_1	16	static
+hcsr04.c:50:6:HCSR04_TASK_02	56	static
+hcsr04.c:101:6:HCSR04_TASK_01	56	static
+hcsr04.c:152:13:hscr_task_init	40	static,ignoring_inline_asm
+hcsr04.c:164:6:hscr04_init	40	static
